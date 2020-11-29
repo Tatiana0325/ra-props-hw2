@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4gs99poxk4fd3ak7?svg=true)](https://ci.appveyor.com/project/Tatiana0325/ra-props-hw2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
